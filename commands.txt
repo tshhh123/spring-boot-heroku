@@ -1,0 +1,132 @@
+    1  nvm
+    2  sudo apt update
+    3  sudo apt upgrade
+    4  git -v
+    5  git --version
+    6  sudo apt get zip unzip
+    7  sudo apt install zip unzip
+    8  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
+    9  nvm
+   10  curl -s "https://get.sdkman.io" | bash
+   11  sdk version
+   12  exit
+   13  curl -s https://ohmyposh.dev/install.sh | bash -s
+   14  sudo curl -s https://ohmyposh.dev/install.sh | bash -s
+   15  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   16  (echo; echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"') >> /home/sing/.bashrc
+   17  eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+   18  sudo apt-get install build-essential
+   19  brew install jandedobbeleer/oh-my-posh/oh-my-posh
+   20  oh-my-posh
+   21  ls
+   22  ls -l
+   23  cd simple-crm/
+   24  ./mvnw boot:run
+   25  ./mvnw run:boot
+   26  ls
+   27  brew install jandedobbeleer/oh-my-posh/oh-my-posh
+   28  ls
+   29  mkdir projects
+   30  cd projects/
+   31  ls
+   32  git clone https://github.com/tshhh123/6m-software-3.14-spring-tdd
+   33  gh auth login
+   34  sudo apt install gh
+   35  gh auth login
+   36  git clone https://github.com/tshhh123/6m-software-3.14-spring-tdd
+   37  ls
+   38  explorer.exe .
+   39  cd 6m-software-3.14-spring-tdd/
+   40  ls
+   41  ll
+   42  code .
+   43  cd ..
+   44  ls
+   45  git clone git@github.com:tshhh123/6m-software-3.10-spring-maven.git
+   46  git clone https://github.com/tshhh123/6m-software-3.10-spring-maven
+   47  cd 6m-software-3.10-spring-maven/
+   48  code .
+   49  cd projects/
+   50  ls
+   51  ls
+   52  ls -al
+   53  cd projects/
+   54  code
+   55  psql --version
+   56  sudo apt update && sudo apt upgrade
+   57  sudo apt install postgresql postgresql-contrib
+   58  sudo service postgresql start
+   59  sudo service postgresql status
+   60  psql -U postgres
+   61  sudo nano /etc/postgresql/14/main/pg_hba.conf 
+   62  psql -U postgres
+   63  psql -U postgres
+   64  psql
+   65  sudo service postgresql start
+   66  psql
+   67  sudo service postgresql restart
+   68  sudo service postgresql status
+   69  psql -U postgres
+   70  code .
+   71  psql -U postgres
+   72  cd projects
+   73  ls
+   74  cd 6m-software-3.14-spring-tdd/
+   75  code .
+   76  git status
+   77  psql --version
+   78  psql -U postgres
+   79  curl localhost:8080/hello
+   80  ~cd projects/6m-software-3.14-spring-tdd/
+   81  cd projects/6m-software-3.14-spring-tdd/
+   82  ls
+   83  cd simple-crm/
+   84  ls
+   85  ./mvnw spring-boot:run
+   86  ./mvnw clean spring-boot:run
+   87  cd ../../6m-software-3.10-spring-maven/
+   88  ls
+   89  cd assignment_code/
+   90  ls
+   91  cd springbootdemo/
+   92  ./mvnw spring-boot:run
+   93  ./mvnw dependency:tree
+   94  ./mvnw spring-boot:run
+   95  cd ../../../6m-software-3.9-spring-intro/springboot/simple-crm/
+   96  ./mvnw spring-boot:run
+   97  cd ../../../6m-software-3.11-spring-components-and-annotations/di-demo/
+   98  ./mvnw spring-boot:run
+   99  cd ../simple-crm/
+  100  ./mvnw spring-boot:run
+  101  cd ../assignment/notification/
+  102  code .
+  103  ./mvnw spring-boot:run
+  104  ./mvnw clean spring-boot:run
+  105  cd ../../../6m-software-3.12-spring-rest-controller/
+  106  ls
+  107  cd src/shoppingcartapi/
+  108  code .
+  109  cd :~/projects/6m-software-3.11-spring-components-and-annotations/assignment/notification
+  110  ./mvnw clean spring-boot:run
+  111  cd ~/projects/6m-software-3.11-spring-components-and-annotations/assignment/notification
+  112  ./mvnw clean spring-boot:run
+  113  code .
+  114  cd ~/projects/6m-software-3.12-spring-rest-controller/src/shoppingcartapi
+  115  ./mvnw clean spring-boot:run
+  116  ./mvnw spring-boot:run
+  117  ./mvnw clean spring-boot:run
+  118  ./mvnw spring-boot:run
+  119  cd ../../../6m-software-3.13-spring-jpa/src/shoppingcartapi/
+  120  code .
+  121  code ../../simple-crm
+  122  clear
+  123  ./mvnw spring-boot:run
+  124  mvnw spring-boot:run
+  125  mvn spring-boot:run
+  126  cd projects/spring-boot-heroku/
+  127  docker run -p 9090:9090 -d -v ./pometheus.yml:/etc/prometheus/prometheus.yml prom/prometheus
+  128* lsm
+  129  docker run -p 9090:9090 -d -v ./prometheus.yml:/etc/prometheus/prometheus.yml prom/prometheus
+  130  git status
+  131  history
+  132  history >> commands.txt
